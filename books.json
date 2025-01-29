@@ -1,0 +1,142 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "year": 1925,
+    "pages": 218,
+    "genre": "Fiction"
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "year": 1960,
+    "pages": 281,
+    "genre": "Fiction"
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "year": 1949,
+    "pages": 328,
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "year": 1813,
+    "pages": 279,
+    "genre": "Romance"
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "year": 1951,
+    "pages": 277,
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "year": 1937,
+    "pages": 310,
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": 1953,
+    "pages": 158,
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "J.R.R. Tolkien",
+    "year": 1954,
+    "pages": 423,
+    "genre": "Fantasy"
+  },
+  {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "year": 1932,
+    "pages": 268,
+    "genre": "Dystopian"
+  },
+  {
+    "title": "The Diary of a Young Girl",
+    "author": "Anne Frank",
+    "year": 1947,
+    "pages": 283,
+    "genre": "Biography"
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "year": 1988,
+    "pages": 208,
+    "genre": "Fiction"
+  },
+  {
+    "title": "The Picture of Dorian Gray",
+    "author": "Oscar Wilde",
+    "year": 1890,
+    "pages": 254,
+    "genre": "Philosophical Fiction"
+  },
+  {
+    "title": "The Road",
+    "author": "Cormac McCarthy",
+    "year": 2006,
+    "pages": 287,
+    "genre": "Post-Apocalyptic"
+  },
+  {
+    "title": "Gone with the Wind",
+    "author": "Margaret Mitchell",
+    "year": 1936,
+    "pages": 1037,
+    "genre": "Historical Fiction"
+  },
+  {
+    "title": "The Grapes of Wrath",
+    "author": "John Steinbeck",
+    "year": 1939,
+    "pages": 464,
+    "genre": "Historical Fiction"
+  },
+  {
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": 1979,
+    "pages": 224,
+    "genre": "Science Fiction"
+  },
+  {
+    "title": "The Shining",
+    "author": "Stephen King",
+    "year": 1977,
+    "pages": 447,
+    "genre": "Horror"
+  },
+  {
+    "title": "The Fault in Our Stars",
+    "author": "John Green",
+    "year": 2012,
+    "pages": 313,
+    "genre": "Young Adult"
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "year": 1985,
+    "pages": 311,
+    "genre": "Dystopian"
+  },
+  {
+    "title": "Little Women",
+    "author": "Louisa May Alcott",
+    "year": 1868,
+    "pages": 759,
+    "genre": "Fiction"
+  }
+]
